@@ -1,1 +1,1 @@
-![](screenShots.gif | width = "100")
+![](screenShots.gif  width = "100")
