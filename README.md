@@ -1,2 +1,2 @@
-![](screenShots.gif  width = "100")
-<img src="screenShots.gif" width="48">
+
+<img src="screenShots.gif" width="200">
